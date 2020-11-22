@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+}
+.header{
+    font-size: 50px;
+    margin-top:5% ;
+    margin-left:40%;
+    margin-bottom: 2.5%;
+}
+.tarea{
+    height: 350px;
+    width: 75%;
+    margin-left: 12.5%;
+}
+.btn{
+    margin-top: 2.5%;
+    margin-left: 40%;
+    width: 20%;
+    height: 50px;
+
+}
+.link{
+    margin-top:5% ;
+    margin-left:20%;
+    margin-bottom: 3%;
+    width: 60%;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top:25px;
+}
+.Qr{
+    background-color: antiquewhite;
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    margin-left: 45%;
+}
